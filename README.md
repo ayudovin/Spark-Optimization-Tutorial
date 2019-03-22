@@ -8,4 +8,4 @@ Apache Spark consists of the following components:
 - MLib
 - GraphX
 
-Two component will be compared in this report. It’s Spark Core and Spark SQL. Spark SQL can be divided into two parts: DataFrame and pure Spark SQL. In spite of DataFrame and pure Spark SQL are the same under the hood, they will also take part in comparison. The query with two JOINs, GROUP BY, COUNT(), ORDER BY, WHERE is offered by Altoros team for measuring result. As a data will be used data from stack-overflow.  
+Two component will be compared in this report. It’s Spark Core and Spark SQL. Spark SQL can be divided into two parts: DataFrame and pure Spark SQL. In spite of DataFrame and pure Spark SQL are the same under the hood, they will also take part in comparison. 
