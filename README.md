@@ -26,3 +26,5 @@ Overflow. The repository with the code and examples can be found in this GitHub 
 To establish baselines, the queries were executed on Spark Core, DataFrame API, and Spark SQL at
 the default configuration. Afterwards, several optimization techniques were applied to each of the
 configurations and then the queries were executed again. Query runtimes were measured in minutes. 
+
+Link to the report: https://www.altoros.com/research-papers/essential-optimization-methods-to-make-apache-spark-work-faster/
